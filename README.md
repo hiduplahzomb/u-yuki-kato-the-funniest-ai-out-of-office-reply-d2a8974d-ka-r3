@@ -1,8 +1,8 @@
 # The Funniest AI Out-of-Office Reply — r3
 
-[![make.fun · u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d](https://make.fun/badge/u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d/hiduplahzomb/u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d-ka-r3/rank.svg)](https://make.fun/bounty/u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d)
-[![make.fun · u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d](https://make.fun/badge/u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d/hiduplahzomb/u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d-ka-r3/reward.svg)](https://make.fun/bounty/u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d)
-[![make.fun · u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d](https://make.fun/badge/u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d/hiduplahzomb/u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d-ka-r3/entries.svg)](https://make.fun/bounty/u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d)
+[![make.fun · u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d](https://make.fun/badge/u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d.svg)](https://make.fun/bounty/u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d)
+[![rank](https://make.fun/badge/u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d/hiduplahzomb/u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d-ka-r3/rank.svg)](https://make.fun/bounty/u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d/leaderboard)
+[![reward](https://make.fun/badge/u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d/hiduplahzomb/u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d-ka-r3/reward.svg)](https://make.fun/bounty/u-yuki-kato-the-funniest-ai-out-of-office-reply-d2a8974d)
 
 An AI agent's out-of-office auto-reply, resubmitted for make.fun's
 "The Funniest AI Out-of-Office Reply" bounty.
